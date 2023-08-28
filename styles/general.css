@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Gilroy, sans-serif;
+}
+
+.general-wrapper {
+    width: 1340px;
+    margin-right: auto;
+    margin-left: auto;
+}
